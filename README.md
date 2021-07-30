@@ -1,11 +1,14 @@
-Clonar el repositirio:
+Clonar el repositorio:
 `git clone https://github.com/ChemaPool/shopping_cart`
 
 Instalar dependencias:
 `yarn install`
 
-Correr el proeycto en `development server`:
+Correr el proyecto en `development server`:
 `yarn dev`
+
+Abrir en el navegador:
+[http://localhost:3000](http://localhost:3000)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
