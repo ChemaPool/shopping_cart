@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { useState, useEffect } from "react";
-import { useConsumer } from 'pages/utils/Context';
+import { useConsumer } from 'utils/Context';
 
 const Navbar: React.FC = () => {
   const [state]: any = useConsumer();

@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import axios from 'axios'
 import CardProduct from 'pages/components/CardProduct';
-import { URL_PRODUCTS } from 'pages/utils/constants';
+import { URL_PRODUCTS } from 'utils/constants';
 import useSaveItems from 'pages/hooks/useSaveItems';
 
 const validateLocalStore = ({ key }: any) => {
