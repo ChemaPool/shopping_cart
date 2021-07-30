@@ -1,8 +1,8 @@
 import { useState, useEffect } from 'react';
 import Image from 'next/image';
-import { useConsumer } from 'pages/utils/Context';
+import { useConsumer } from 'utils/Context';
 import EmptyCart from 'pages/components/EmptyCart';
-import { Product } from 'pages/utils/types';
+import { Product } from 'utils/types';
 import useSaveItems from 'pages/hooks/useSaveItems';
 
 const ShoppingCart: React.FC = () => {

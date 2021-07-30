@@ -1,6 +1,6 @@
 import type { AppProps } from 'next/app';
 import Layout from 'pages/components/shared/Layout';
-import { Provider } from 'pages/utils/Context';
+import { Provider } from 'utils/Context';
 
 const MyApp = ({ Component, pageProps }: AppProps) => {
   return (
