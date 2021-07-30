@@ -1,0 +1,1 @@
+export const URL_PRODUCTS = 'https://products-api-meru.vercel.app/api/products';
