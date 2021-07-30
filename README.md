@@ -10,6 +10,13 @@ Correr el proyecto en `development server`:
 Abrir en el navegador:
 [http://localhost:3000](http://localhost:3000)
 
+En el proyecto:
+`heroicons/react`
+`types/axios`
+`tailwindcss`
+`typescript`
+
+****
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
